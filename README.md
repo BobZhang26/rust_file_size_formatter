@@ -1,4 +1,4 @@
-# Rust project template
+# Rust Lab: Create a File Size Formatter
 
 ## Learning Objectives:
 - Understand how to define and use enums and structs in Rust.
